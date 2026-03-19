@@ -1,0 +1,86 @@
+[
+  {
+    "id": "prod_001",
+    "nome": "Camiseta Algodão Orgânico Unissex",
+    "descricao": "Algodão orgânico certificado.",
+    "categoria": "Roupas e Acessórios Sustentáveis",
+    "preco": 129.9,
+    "preco_original": 129.9,
+    "imagens": [
+      "https://via.placeholder.com/300"
+    ],
+    "avaliacoes": {
+      "media": 4.8
+    }
+  },
+  {
+    "id": "prod_002",
+    "nome": "Bolsa Tote Reciclada",
+    "descricao": "Feita com PET reciclado.",
+    "categoria": "Roupas e Acessórios Sustentáveis",
+    "preco": 89.9,
+    "preco_original": 119.9,
+    "imagens": [
+      "https://via.placeholder.com/300"
+    ],
+    "avaliacoes": {
+      "media": 4.6
+    }
+  },
+  {
+    "id": "prod_003",
+    "nome": "Sérum Vitamina C",
+    "descricao": "Natural e vegano.",
+    "categoria": "Beleza e Cuidados Pessoais Naturais",
+    "preco": 94.9,
+    "preco_original": 94.9,
+    "imagens": [
+      "https://via.placeholder.com/300"
+    ],
+    "avaliacoes": {
+      "media": 4.9
+    }
+  },
+  {
+    "id": "prod_004",
+    "nome": "Shampoo Sólido",
+    "descricao": "Zero plástico.",
+    "categoria": "Beleza e Cuidados Pessoais Naturais",
+    "preco": 69.9,
+    "preco_original": 89.9,
+    "imagens": [
+      "https://via.placeholder.com/300"
+    ],
+    "avaliacoes": {
+      "media": 4.7
+    }
+  },
+  {
+    "id": "prod_005",
+    "nome": "Esponja Vegetal",
+    "descricao": "Biodegradável.",
+    "categoria": "Itens para Casa Sustentáveis",
+    "preco": 34.9,
+    "preco_original": 34.9,
+    "imagens": [
+      "https://via.placeholder.com/300"
+    ],
+    "avaliacoes": {
+      "media": 4.5
+    }
+  },
+  {
+    "id": "prod_006",
+    "nome": "Vela de Soja",
+    "descricao": "Aromática e sustentável.",
+    "categoria": "Itens para Casa Sustentáveis",
+    "preco": 59.9,
+    "preco_original": 59.9,
+    "imagens": [
+      "https://via.placeholder.com/300"
+    ],
+    "avaliacoes": {
+      "media": 4.9
+    }
+  }
+]

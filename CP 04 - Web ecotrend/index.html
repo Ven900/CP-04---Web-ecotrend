@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>EcoTrend</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>EcoTrend 🌱</h1>
+    <div class="cart-summary">
+      <span>Itens: <strong id="cart-count">0</strong></span>
+      <span>Total: <strong id="cart-total">R$ 0,00</strong></span>
+    </div>
+  </header>
+
+  <section id="filtros">
+    <button onclick="filtrar('todos')">Todos</button>
+    <button onclick="filtrar('Roupas e Acessórios Sustentáveis')">Roupas</button>
+    <button onclick="filtrar('Beleza e Cuidados Pessoais Naturais')">Beleza</button>
+    <button onclick="filtrar('Itens para Casa Sustentáveis')">Casa</button>
+  </section>
+
+  <main>
+    <section id="produtos"></section>
+
+    <aside id="carrinho">
+      <h2>Carrinho</h2>
+      <div id="carrinho-itens"></div>
+      <div id="carrinho-total"></div>
+    </aside>
+  </main>
+
+  <script src="main.js"></script>
+</body>
+</html>
